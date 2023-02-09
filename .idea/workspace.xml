@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="999b011f-aa93-4b83-94eb-897c57464197" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Powerofanumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chartostring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/duplicatesinanarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringtochar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.iml" afterDir="false" />
-    </list>
+    <list default="true" id="999b011f-aa93-4b83-94eb-897c57464197" name="Changes" comment="Feb9" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +44,18 @@
       <option name="presentableId" value="Default" />
       <updated>1675912429454</updated>
     </task>
+    <task id="LOCAL-00001" summary="Feb9">
+      <created>1675984636937</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675984636937</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feb9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feb9" />
   </component>
 </project>
